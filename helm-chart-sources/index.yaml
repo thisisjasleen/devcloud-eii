@@ -9,7 +9,7 @@ entries:
     name: eii-deploy
     type: application
     urls:
-    - https://thisisjasleen.github.io/devcloud-eii/eii-deploy-0.1.0.tgz
+    - https://thisisjasleen.github.io/devcloud-eii/helm-chart-sources/eii-deploy-0.1.0.tgz
     version: 0.1.0
   eii-provision:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: eii-provision
     type: application
     urls:
-    - https://thisisjasleen.github.io/devcloud-eii/eii-provision-0.1.0.tgz
+    - https://thisisjasleen.github.io/devcloud-eii/helm-chart-sources/eii-provision-0.1.0.tgz
     version: 0.1.0
 generated: "2021-08-26T15:07:25.328516201+05:30"
