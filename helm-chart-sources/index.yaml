@@ -9,6 +9,23 @@ entries:
     name: dev-eii
     type: application
     urls:
+<<<<<<< HEAD
     - https://thisisjasleen.github.io/devcloud-eii/helm-chart-sources/dev-eii-0.1.0.tgz
     version: 0.1.0
 generated: "2021-08-26T15:59:03.110085136+05:30"
+=======
+    - https://thisisjasleen.github.io/devcloud-eii/helm-chart-sources/eii-deploy-0.1.0.tgz
+    version: 0.1.0
+  eii-provision:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-26T15:07:25.329257208+05:30"
+    description: A Helm chart for EII provisioning
+    digest: 332c8b592a7ef6748b2b8461763ade75f1a00d2d0da8b2cd4ec45a3c1a744da8
+    name: eii-provision
+    type: application
+    urls:
+    - https://thisisjasleen.github.io/devcloud-eii/helm-chart-sources/eii-provision-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-26T15:07:25.328516201+05:30"
+>>>>>>> b6ebc1c7175b29b4b5c75c1aea84513a6a6381e4
