@@ -1,25 +1,14 @@
 apiVersion: v1
 entries:
-  eii-deploy:
+  dev-eii:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-08-26T15:07:25.328992526+05:30"
-    description: A Helm chart for EII deployment
-    digest: 09ff80a86b0d8d283c78372ff82b426270a2b17bd31deb58a82e007f7b1b92a7
-    name: eii-deploy
+    created: "2021-08-26T15:59:03.111105253+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 68c8214e819a7446fe639c53da369bcf17ed316ef13bfecf0f0b870975a952bc
+    name: dev-eii
     type: application
     urls:
-    - https://thisisjasleen.github.io/devcloud-eii/eii-deploy-0.1.0.tgz
+    - https://thisisjasleen.github.io/devcloud-eii/helm-chart-sources/dev-eii-0.1.0.tgz
     version: 0.1.0
-  eii-provision:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2021-08-26T15:07:25.329257208+05:30"
-    description: A Helm chart for EII provisioning
-    digest: 332c8b592a7ef6748b2b8461763ade75f1a00d2d0da8b2cd4ec45a3c1a744da8
-    name: eii-provision
-    type: application
-    urls:
-    - https://thisisjasleen.github.io/devcloud-eii/eii-provision-0.1.0.tgz
-    version: 0.1.0
-generated: "2021-08-26T15:07:25.328516201+05:30"
+generated: "2021-08-26T15:59:03.110085136+05:30"
